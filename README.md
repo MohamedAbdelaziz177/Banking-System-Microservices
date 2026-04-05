@@ -6,7 +6,7 @@ A comprehensive, production-grade microservices architecture for banking operati
 
 ## 🌟 System Overview
 
-![Banking System Architecture](./docs/banking-system-microservices-arch.png)
+![Banking System Architecture](./docs/sys-ov-v2.png)
 
 This system demonstrates a complete microservices implementation with industry-standard patterns including service discovery, centralized configuration, API gateway, distributed tracing, and event-driven architecture.
 
